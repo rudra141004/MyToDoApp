@@ -1,4 +1,9 @@
 {
   "name": "MyToDoApp",
-  "displayName": "MyToDoApp"
+  "displayName": "MyToDoApp",
+  "extra": {
+    "eas": {
+      "projectId": "59d076a9-a9ff-4681-97e8-dc61e3727a3f"
+    }
+  }
 }
